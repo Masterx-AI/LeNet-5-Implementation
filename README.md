@@ -1,5 +1,7 @@
 ## LeNet-5 Model Description:
 
+![](https://raw.githubusercontent.com/Masterx-AI/LeNet-5-Implementation/main/alexnet.png)
+
 LeNet-5 CNN architecture is made up of 7 layers. The layer composition consists of 
 * 3 convolutional layers
 * 2 subsampling layers
